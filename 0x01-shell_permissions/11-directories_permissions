@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+rxX /*
+chmod -R a+rx 
