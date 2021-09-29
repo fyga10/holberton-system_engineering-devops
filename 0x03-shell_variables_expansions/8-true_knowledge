@@ -1,2 +1,2 @@
 #!/bin/bash
-echo export sum=$((127 + 1))
+echo sum=$((128 + TRUEKNOWLEDGE))
