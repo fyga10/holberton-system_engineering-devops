@@ -1,3 +1,2 @@
 #!/bin/bash
 print ((128 + TRUEKNOWLEDGE))
-
