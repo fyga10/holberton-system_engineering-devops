@@ -1,2 +1,2 @@
 #!/bin/bash
-expor NUM |echo $(NUM/100)
+export NUM |echo $(NUM/100)
