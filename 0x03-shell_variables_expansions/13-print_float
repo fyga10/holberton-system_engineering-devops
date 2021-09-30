@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM/100
+expor NUM |echo $(NUM/100)
