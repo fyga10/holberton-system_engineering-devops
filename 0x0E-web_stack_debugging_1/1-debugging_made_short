@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script that change the port to 80 & create a zombie process
+sudo sed -i 's/8080 default_server/80 default_server/g' /etc/nginx/sites-enabled/default
+sudo pkill -1 nginx
